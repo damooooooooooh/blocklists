@@ -1,0 +1,12 @@
+!
+! Title: Search Engine Filter
+!
+||baidu.com^
+||aol.com^
+||aol.co.uk^
+||ask.com^
+||ask.co.uk^
+||excite.com^
+||yandex.com^
+||lycos.com^
+||pixabay.com^
