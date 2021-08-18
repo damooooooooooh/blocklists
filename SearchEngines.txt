@@ -10,3 +10,16 @@
 ||yandex.com^
 ||lycos.com^
 ||pixabay.com^
+||dogpile.com
+||ecosia.org
+||exalead.com
+||gigablast.com
+||metacrawler.com
+||mojeek.com
+||qwant.com
+||searx.me
+||sogou.com
+||startpage.com
+||swisscows.com
+||webcrawler.com
+||youdao.com
